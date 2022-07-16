@@ -4,6 +4,7 @@
 
 - **Social**
   - [With Psychology](https://github.com/javeoff/with-psychology) - About neurobiology and social biology
+  - [With Team-lead](https://github.com/javeoff/with-teamlead) - About teamlead skills and group organization
 - **Programming**
   - [With Programming](https://github.com/javeoff/with-programming) - About programming theory and the best practices
   - [With Decentralized](https://github.com/javeoff/with-decentralized) - About decentralized ecosystem with theory
