@@ -5,6 +5,11 @@
 - **Social**
   - [With Psychology](https://github.com/javeoff/with-psychology) - About neurobiology and social biology
   - [With Team-lead](https://github.com/javeoff/with-teamlead) - About teamlead skills and group organization
+- **Science**
+  - [With Economics](https://github.com/javeoff/with-economics) - About economics
+  - [With Mathematics](https://github.com/javeoff/with-mathematics) - About mathematics
+  - [With Physics](https://github.com/javeoff/with-physics) - About physics
+  - [With Anatomy](https://github.com/javeoff/with-anatomy) - About anatomy
 - **Programming**
   - [With Programming](https://github.com/javeoff/with-programming) - About programming theory and the best practices
   - [With Decentralized](https://github.com/javeoff/with-decentralized) - About decentralized ecosystem with theory
